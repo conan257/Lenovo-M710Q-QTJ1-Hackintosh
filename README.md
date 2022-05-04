@@ -14,3 +14,8 @@
 |   WiFi & Bluetooth   | BCM943224PCIEBT2  |
 |   SMBIOS   | MacMini8,1 |
 |   BootLoader   | OpenCore 0.7.8 |
+
+
+2022年5月4日更新：
+本次更新加入三码，测试为可用状态
+如果不能用了，请替换config.plist文件中对应内容，推荐vs编辑器
