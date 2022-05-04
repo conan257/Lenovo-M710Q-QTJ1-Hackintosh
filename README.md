@@ -1,6 +1,4 @@
 # Lenovo-M710Q-QTJ1-Hackintosh
-
-# Lenovo-M710Q-QTJ1-Hackintosh
 ## Computer Spec:
 
 |   Component   |    Specifications |
